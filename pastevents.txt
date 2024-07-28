@@ -1,0 +1,15 @@
+nano & 
+warp .. 
+warp mini-project-1-aisharris 
+nano & 
+sleep 1 & 
+echo hi 
+warp hi 
+warp .. 
+warp hi 
+[A[A 
+warp hi 
+warp .. 
+warp hi 
+warp .. 
+clear 
